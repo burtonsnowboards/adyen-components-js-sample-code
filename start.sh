@@ -1,1 +1,1 @@
-./server/php/start.sh
+#./server/php/start.sh
